@@ -1,0 +1,13 @@
+1. Redux, react learning
+ - link: https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps
+ 
+2. Graphql learning
+
+3. react-native learning
+
+4.swift learning
+
+5. Learning other things
+https://facebook.github.io/flux/ - Flux of facebook
+
+reflux - state management for react but rarely project using it
